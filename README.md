@@ -1,2 +1,2 @@
 # Tech-Academy-Projects
-This repository is for my Tech Academy projects
+This repository is a test repository for my Tech Academy projects
